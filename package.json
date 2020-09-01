@@ -16,7 +16,7 @@
   "repository": "https://github.com/seald/react-native-modpow",
   "author": "Seald SAS <contact@seald.io> (https://seald.io)",
   "license": "MIT",
-  "homepage": "https://github/seald/react-native-modpow",
+  "homepage": "https://github.com/seald/react-native-modpow",
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
