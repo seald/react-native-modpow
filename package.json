@@ -1,0 +1,24 @@
+{
+  "name": "react-native-modpow",
+  "version": "1.0.0",
+  "description": "export native BigInteger.modPow() function that will not freeze your UX for more than a minute.",
+  "main": "index.js",
+  "react-native": "index.js",
+  "nativePackage": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "repository": "https://github.com/seald/react-native-modpow",
+  "author": "Seald SAS <contact@seald.io> (https://seald.io)",
+  "license": "MIT",
+  "homepage": "https://github/seald/react-native-modpow",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
