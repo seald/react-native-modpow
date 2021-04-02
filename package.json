@@ -1,9 +1,17 @@
 {
   "name": "react-native-modpow",
-  "version": "1.0.0",
+  "version": "1.1.0-0",
   "description": "export native BigInteger.modPow() function that will not freeze your UX for more than a minute.",
   "main": "index.js",
   "react-native": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "android/",
+    "ios/",
+    "index.d.ts",
+    "index.js",
+    "react-native-modpow.podspec"
+  ],
   "nativePackage": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +28,10 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
+  },
+  "devDependencies": {
+    "react": "^17.0.1",
+    "react-native": "^0.64.0",
+    "semver": "^6.3.0"
   }
 }
