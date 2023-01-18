@@ -30,8 +30,8 @@
     "react-native": "*"
   },
   "devDependencies": {
-    "react": "^17.0.1",
-    "react-native": "^0.64.0",
-    "semver": "^6.3.0"
+    "react": "^18.2.0",
+    "react-native": "^0.71.0",
+    "semver": "^7.3.8"
   }
 }
