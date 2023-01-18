@@ -1,7 +1,7 @@
 stages:
   - deploy
 
-image: node:14
+image: node:18
 
 before_script:
   - echo "//registry.npmjs.org/:_authToken=${NPM_REGISTRY_TOKEN}" > .npmrc
